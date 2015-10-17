@@ -14,7 +14,7 @@ variable or method like that so, I've made this command which will add the tr ke
 
 Installation
 ---
-Just copy the `management` folder to any of your [apps](https://docs.djangoproject.com/en/1.8/intro/tutorial01/#creating-models) or just copy the `management/commands/gettr.py` to an existent [management module](https://docs.djangoproject.com/en/1.8/howto/custom-management-commands/)
+Just copy the `management` folder to any of your [apps](https://docs.djangoproject.com/en/1.8/intro/tutorial01/#creating-models) or just copy the `management/commands/gettr.py` to an existent [management package](https://docs.djangoproject.com/en/1.8/howto/custom-management-commands/)
 
 Usage
 ---
